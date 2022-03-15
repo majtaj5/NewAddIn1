@@ -1,0 +1,15 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"Piotr Król",
+	"description":	{
+		"":	"Test app"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"id":	"a14f9532-df17-4b8d-a719-186783c01df2",
+	"version":	"1.1",
+	"runOnStartup":	false,
+	"sourcewindows":	"NewAddIn1.vcxproj",
+	"sourcemac":	"NewAddIn1.xcodeproj"
+}
